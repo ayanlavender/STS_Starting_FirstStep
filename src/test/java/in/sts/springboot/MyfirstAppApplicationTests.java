@@ -8,6 +8,7 @@ class MyfirstAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.print("my first app test");
 	}
 
 }
